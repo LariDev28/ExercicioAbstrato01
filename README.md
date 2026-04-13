@@ -27,6 +27,10 @@ Durante o desenvolvimento, foram abordados:
 
 🧠 Sobrescrita de métodos (@Override)
 
+🧠 Arquitetura do Sistema
+
+Neste projeto, utilizei os pilares da POO para resolver um problema clássico de geometria de forma escalável. A ideia central foi criar um 'contrato' através de uma classe abstrata, garantindo que qualquer figura — seja um círculo, quadrado ou triângulo — saiba exatamente como calcular sua própria área. O uso de polimorfismo permitiu que o sistema trate diferentes formas de maneira uniforme, tornando o código muito mais limpo e preparado para a adição de novas figuras sem a necessidade de reescrever a base do projeto. 
+
 💻 Tecnologias Utilizadas
 
 Java
