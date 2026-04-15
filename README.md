@@ -47,7 +47,15 @@ Compile e execute a classe principal
 
 🧪 Exemplo do Projeto
 
-O programa demonstra como uma classe abstrata pode servir como base para outras classes, garantindo que determinados métodos sejam obrigatoriamente implementados, promovendo maior organização e reutilização de código.
+Entrada: Círculo (raio 3), Quadrado (lado 4), Triângulo (base 7, altura 8).
+
+Saída esperada:
+
+Figura: Circulo | Area: 28.26
+
+Figura: Quadrado | Area: 16.0
+
+Figura: Triangulo | Area: 28.0
 
 📌 Aprendizados
 
@@ -58,6 +66,8 @@ Importância da abstração no desenvolvimento de códigos
 Reutilização e organização de código
 
 Estrutura hierárquica entre classes
+
+Uso do super(nome) no construtor das subclasses para repassar dados à classe mãe
 
 🧾 Conclusão
 
